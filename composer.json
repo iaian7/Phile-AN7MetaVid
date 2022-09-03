@@ -1,7 +1,7 @@
 {
 	"name": "an7/meta-vid",
 	"type": "phile-plugin",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "MIT",
     "description": "Converts Vimeo IDs into embed code and thumbnail images",
     "homepage": "http://iaian7.com",
